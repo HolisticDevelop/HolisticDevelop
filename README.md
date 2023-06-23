@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/HolisticDevelop/HolisticDevelop/assets/104804059/32571ca2-cd7e-442d-9e43-f0850f4d13ae)
 
 <!--
 **HolisticDevelop/HolisticDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
